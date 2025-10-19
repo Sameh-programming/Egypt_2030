@@ -1,0 +1,78 @@
+body{
+    font-family: "Cairo", sans-serif;
+    direction: rtl;
+    text-align: center;
+    background-color: #35db8e;
+}
+h1{
+    color: rgb(6, 3, 44);
+    font-size: 100px;
+    margin-top: 10px;
+}
+html {
+    overflow-y: scroll;
+    height: 100%;
+}
+h2{
+    color: rgb(6, 3, 44);
+    font-size: 50px;
+    float: center;
+    margin-top: 20px;
+}
+h3{
+    color: rgb(6, 3, 44);
+    margin: 20px;
+    font-size: 30px;
+}
+p{
+    color: rgb(6, 3, 44);
+    font-size: 20px;
+    margin-top: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.img-main {
+    width: 900px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+}
+.img-capital {
+    width: 500px;
+    height: 300px;
+    float: left;
+    margin-top: auto;
+    border-radius: 30px;
+}
+.img-muesuem {
+    width: 500px;
+    height: 300px;
+    margin-top: 100px;
+    float: right;
+    border-radius: 30px;
+}
+.img-monorail {
+    width: 500px;
+    height: 300px;
+    margin-top: 100px;
+    float: left;
+    border-radius: 30px;
+}
+
+.img-green {
+    width: 500px;
+    height: 300px;
+    margin-top: 100px;
+    float: right;
+    border-radius: 30px;
+}
+
+.img-adly {
+    width: 500px;
+    height: 300px;
+    margin-top: 100px;
+    float: left;
+    border-radius: 30px;
+}
